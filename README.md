@@ -17,4 +17,5 @@
 
 #NOTE :
 -
-Geliştirdiğim kodların  denemesini Visual Studio daki  hot related atma eklentisi ile   beraber Google nin geliştirmiş olduğu popüler Chrome tarayıciyi tercih ettim herhangi bir beklenmedik  durum karşısında nasıl bir hata olduğunu daha iyi görmek için çok iyi bir kod inceleme alt yapısi ve geliştiricileri destekleyen pek çok eklenti de çevrim içi mağazasında yer edinmiş durumda tabiki boyle bir fırsat varken bunu değerlendirdim , kullandığim başlıca eklentilerin işlevleri sayfada belirli yerlerin boyutunu ,yazının fontunu ve ogenin rengini bulmaya yarayan eklentilerdir.
+Geliştirdiğim kodların  denemesini Visual Studio daki  hot related atma eklentisi ile   beraber Google nin geliştirmiş olduğu popüler Chrome tarayıciyi tercih ettim herhangi bir beklenmedik  durum karşısında nasıl bir hata olduğunu daha iyi görmek için çok iyi bir kod inceleme alt yapısi ve geliştiricileri destekleyen pek çok eklenti de çevrim içi mağazasında yer edinmiş durumda tabiki boyle bir fırsat varken bunu değerlendirdim , kullandığim başlıca eklentilerin işlevleri sayfada belirli yerlerin boyutunu ,yazının fontunu ve ogenin rengini bulmaya yarayan eklentilerdir
+Özgeçmiş sayfam ,özellikleri keşfet butonunun altında ki butondadır.(Ana sayfanin alt kısmı)
