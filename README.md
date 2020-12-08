@@ -13,8 +13,8 @@
 
 #Kullanilan Diller
 -
-+HTML
 + CSS
++ HTML
 
 #NOTE :
 -
