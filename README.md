@@ -1,5 +1,4 @@
 # www.whatsapp.com sitesi front-end (birebir yeniden tasarım) 
--
 
 #BS435 Web Programlama 1 Dersi Vize Ödevi
 -
